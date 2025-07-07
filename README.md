@@ -17,7 +17,8 @@ This project implements a real-time, data-driven dynamic pricing engine for 14 u
 - **GitHub** (version control, documentation)
 
 ## 🏗️ Architecture Diagram
-*(Export this diagram as PNG and include as architecture_diagram.png)*
+![architecture_image](https://github.com/user-attachments/assets/b4f4630b-2fee-44c8-b75e-c627ccf8a0b7)
+
 
 ## 📚 Project Architecture & Workflow
 
@@ -33,8 +34,6 @@ This project implements a real-time, data-driven dynamic pricing engine for 14 u
    - Pathway simulates real-time data flow and pricing updates.
 6. **Visualization:**  
    - Bokeh provides real-time price plots for each parking lot.
-7. **(Optional) Model 3 – Competitive Pricing:**  
-   - Incorporates competitor prices and rerouting logic.
 
 ## 📖 Documentation
 
